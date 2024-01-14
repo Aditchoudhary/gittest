@@ -3,3 +3,5 @@
 3rd commit from branch1 after rebase of 2nd commit in main
 
 4th commit from branch2
+5th commit from branch2 after raising pr and then rebase -i main/origin
+6th commit above line is not visible i pussed using ppush origin branch2 --force.. looks like 5th commit is disappered.. 
